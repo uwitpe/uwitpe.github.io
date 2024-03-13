@@ -9,4 +9,6 @@ Add a new line
 
 ## Demos
 
+![](https://raw.githubusercontent.com/opengeos/leafmap/master/docs/assets/logo_rect.png)
+
 ![](https://i.gifer.com/embedded/download/4j.gif)
